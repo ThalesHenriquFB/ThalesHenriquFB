@@ -1,10 +1,8 @@
 ### Welcome to my GitHub profile
 
-[Portuguese]
-Comecei minha carreira como suporte na área de TI visando crescer profissionalmente como desenvolvedor de software e me especializar mais na parte de desenvolvimento mobile utilizando a linguagem dart junto ao seu framework flutter. Dependendo do ponto de vista, essa seria a trajetória mais "longa". Fazendo dessa forma consigo acumular o máximo de experiência possível na área de programação e melhorar diariamente minhas soft e hard skills.
+[Portuguese] Atualmente, estou focado no estudo de front-end, possuindo domínio em HTML e CSS, além de estar aprofundando meus conhecimentos em JavaScript e React. Tenho grande paixão pela tecnologia e uma forte vontade de aprender e resolver problemas. Estou em busca de oportunidades para aplicar meus conhecimentos e contribuir para projetos, consolidando assim minha trajetória como desenvolvedor e ampliando meu impacto no campo da programação.
 
-[English]
-I started my career in IT support with the aim of growing professionally as a software developer and specializing more in mobile development using the dart language and its flutter framework. Depending on your point of view, this would be the "longest" path. By doing so, I can accumulate as much experience as possible in the programming field and improve my soft and hard skills on a daily basis.
+[English] Currently, I am focused on studying front-end, with proficiency in HTML and CSS. Additionally, I am deepening my knowledge in JavaScript and React. I have a profound passion for technology and a strong desire to learn and solve problems. I am actively seeking opportunities to apply my skills and contribute to projects, thereby solidifying my path as a developer and expanding my impact in the field of programming.
 
 <div align = "center">
 <a href="https://github.com/ThalesHenriquFB">
